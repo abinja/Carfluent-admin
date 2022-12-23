@@ -1,0 +1,17 @@
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.deps.json
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\GlobalEntityLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\bin\Release\net6.0\GlobalEntityLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\refint\DataAccessLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Carfluent Git Backup\CarfluentAdmin\DataAccessLayer\obj\Release\net6.0\ref\DataAccessLayer.dll

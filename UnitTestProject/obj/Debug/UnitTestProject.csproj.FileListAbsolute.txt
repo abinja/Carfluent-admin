@@ -1,0 +1,49 @@
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\AutoMapper.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Buffers.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Memory.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Numerics.Vectors.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\AutoMapper.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Buffers.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Memory.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Numerics.Vectors.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Carfluent Git Backup\CarfluentAdmin\UnitTestProject\obj\Debug\UnitTestProject.pdb
